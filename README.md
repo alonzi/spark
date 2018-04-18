@@ -5,6 +5,8 @@
 
 [spark introduction notebook](https://docs.databricks.com/_static/notebooks/gentle-introduction-to-apache-spark.html)
 
+[class notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4000045829686806/4130268913211958/8487678941636942/latest.html)
+
 workspace -> Users -> "username" -> Introduction to Apache Spark on Databricks
 
 [docs](https://spark.apache.org/docs/latest/api/python/pyspark.sql.html#module-pyspark.sql.functions)
