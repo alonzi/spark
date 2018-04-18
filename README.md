@@ -8,3 +8,5 @@
 workspace -> Users -> "username" -> Introduction to Apache Spark on Databricks
 
 [docs](https://spark.apache.org/docs/latest/api/python/pyspark.sql.html#module-pyspark.sql.functions)
+
+[Getting Started Page](https://spark.apache.org/docs/1.6.1/sql-programming-guide.html)
