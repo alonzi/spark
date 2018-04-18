@@ -5,4 +5,4 @@
 
 [spark introduction notebook](https://docs.databricks.com/_static/notebooks/gentle-introduction-to-apache-spark.html)
 
-workspace -> Users -> <username> -> Introduction to Apache Spark on Databricks
+workspace -> Users -> "username" -> Introduction to Apache Spark on Databricks
