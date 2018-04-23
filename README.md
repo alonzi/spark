@@ -16,3 +16,6 @@ workspace -> Users -> "username" -> Introduction to Apache Spark on Databricks
 [uploading data to databricks](https://docs.databricks.com/user-guide/tables.html#create-table-ui)
 
 [class notebook 4/23](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4000045829686806/2659835526880009/8487678941636942/latest.html)
+
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4000045829686806/2659835526880009/8487678941636942/latest.html
