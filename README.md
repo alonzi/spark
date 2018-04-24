@@ -21,6 +21,6 @@ workspace -> Users -> "username" -> Introduction to Apache Spark on Databricks
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4000045829686806/2659835526880009/8487678941636942/latest.html
 
 ### Homework Notebook Links
-[logistic regression](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1737544403053577/3977432844838225/3344280574654020/latest.htm)
-[neural network](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1737544403053577/3977432844838051/3344280574654020/latest.html)
-[scikit-learn](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1737544403053577/3977432844838144/3344280574654020/latest.html)
+* [logistic regression](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1737544403053577/3977432844838225/3344280574654020/latest.htm)
+* [neural network](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1737544403053577/3977432844838051/3344280574654020/latest.html)
+* [scikit-learn](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1737544403053577/3977432844838144/3344280574654020/latest.html)
